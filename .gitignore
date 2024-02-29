@@ -1,5 +1,4 @@
 /.idea
-!/assets/images/background.jpg
 *.sqlite
 # JPEG
 *.jpg
@@ -64,3 +63,5 @@
 # 3D Images
 *.3dm
 *.max
+
+!/assets/images/background.jpg
