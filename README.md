@@ -1,1 +1,1 @@
-# В settings.php D токены для взаимодействия с Yandex SmartCaptcha
+# В settings.php вписать токены для взаимодействия с Yandex SmartCaptcha
